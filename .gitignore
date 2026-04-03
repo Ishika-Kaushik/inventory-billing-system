@@ -1,0 +1,17 @@
+# Database
+*.db
+
+# Backup folder
+backups/
+
+# Logs & exports
+*.csv
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
