@@ -31,7 +31,14 @@ A professional desktop application built using Python and Tkinter to manage inve
 
 ## 📸 Screenshots
 
-> (Add screenshots here later)
+### 🔐 Login Screen
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🧾 Billing System
+![Billing](screenshots/billing.png)
 
 ---
 
